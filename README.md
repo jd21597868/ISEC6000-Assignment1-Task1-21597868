@@ -6,8 +6,7 @@ This is Assignment 1 for unit ISEC 6000 Secure DevOps, 2023.
 
 For this assignment, we are required to develop an Ecommerce platform using Saleor platform, which is an opensource platform.
 
-Begnning of he
-
+This repository forked the source files of Saleor platform via https://github.com/saleor/saleor-platform.
 
 
 
